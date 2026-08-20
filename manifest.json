@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Dugout Baseball",
+  "short_name": "Dugout",
+  "description": "Baseball video review, scouting, playlists, uploads, and side-by-side analysis.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#02060b",
+  "theme_color": "#08111d",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
